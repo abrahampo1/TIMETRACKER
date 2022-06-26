@@ -1,4 +1,4 @@
-console.log('TimeTracker is running')
+const exec = require('child_process').exec
 const isRunning = (query, cb) => {
   let platform = process.platform
   let cmd = ''
