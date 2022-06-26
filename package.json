@@ -1,0 +1,22 @@
+{
+  "name": "timetracker",
+  "version": "1.0.0",
+  "description": "Time Tracker manager, that read the status of an app every x second",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abrahampo1/TIMETRACKER.git"
+  },
+  "keywords": [
+    "timetracker"
+  ],
+  "author": "Abrahampo1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abrahampo1/TIMETRACKER/issues"
+  },
+  "homepage": "https://github.com/abrahampo1/TIMETRACKER#readme"
+}
